@@ -35,7 +35,7 @@ To run the portfolio website locally, follow these steps:
 ## How to Use
 The website is designed to be intuitive and user-friendly. Here's a quick guide on how to navigate and use the website:
 
-1. **Home**: The landing page welcomes you with a brief introduction and a call-to-action to explore the rest of the website.
+1. **Home**: The landing page welcomes you with a brief introduction and a call to action to explore the rest of the website.
 2. **About Me**: Click on the "About Me" section in the navigation bar to read more about my background and interests.
 3. **My Projects**: Navigate to the "My Projects" section to view a list of my completed projects. Click on a project to learn more about it.
 4. **My Skills**: Visit the "My Skills" section to see an overview of my technical skills and expertise.
@@ -47,6 +47,6 @@ Feel free to explore and interact with the different sections to learn more abou
 I welcome contributions and feedback from the community. If you find any issues with the website or have suggestions for improvements, please open an issue or submit a pull request. I'll be happy to review and merge valid contributions.
 
 ## Contact
-If you have any questions or just want to say hello, you can reach me at rh676838@gmail.com. Additionally, you can connect with me on [LinkedIn] https://www.linkedin.com/in/hamad-anwar
+If you have any questions or just want to say hello, you can reach me at ishtiaqrashid299@gmail.com. Additionally, you can connect with me on [LinkedIn] https://www.linkedin.com/in/ishtiaq-rashid
 
 Thank you for visiting my portfolio website! I hope you enjoy exploring it as much as I enjoyed creating it.
